@@ -6,3 +6,4 @@ repository for images
 ![Trebuchet_Scheme](https://user-images.githubusercontent.com/1801654/225169554-b3569898-c974-4a20-b87a-dbbaf445bd53.svg)
 ![smaller_cannon](https://user-images.githubusercontent.com/1801654/233868746-931e13dd-defe-4287-ab47-ce8251e7e34e.jpg)
 ![Glenmore_schematic](https://github.com/rgreilly/images/assets/1801654/71998f2e-8d50-45c6-be97-c8ad016cde96)
+![TICS_Box](https://github.com/rgreilly/images/assets/1801654/10528192-c594-4518-97b5-ca0399b5cc1c)
