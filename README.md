@@ -7,3 +7,4 @@ repository for images
 ![smaller_cannon](https://user-images.githubusercontent.com/1801654/233868746-931e13dd-defe-4287-ab47-ce8251e7e34e.jpg)
 ![glenmore_schematic](https://github.com/rgreilly/images/assets/1801654/82a77669-304a-47da-8ec4-28ca25639ee7)
 ![image](https://github.com/rgreilly/images/assets/1801654/a68b3afd-2374-4db2-9072-ea318622abfc)
+![Seven_segnment-display](https://github.com/rgreilly/images/assets/1801654/d3310e58-f0a9-485f-86c8-0603a9aadac7)
