@@ -8,3 +8,4 @@ repository for images
 ![glenmore_schematic](https://github.com/rgreilly/images/assets/1801654/82a77669-304a-47da-8ec4-28ca25639ee7)
 ![image](https://github.com/rgreilly/images/assets/1801654/a68b3afd-2374-4db2-9072-ea318622abfc)
 ![Seven_segnment-display](https://github.com/rgreilly/images/assets/1801654/d3310e58-f0a9-485f-86c8-0603a9aadac7)
+![image](https://github.com/rgreilly/images/assets/1801654/f5d27ba2-5f19-4b53-8cdf-17defc3a910b)
