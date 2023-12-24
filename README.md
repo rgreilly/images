@@ -9,3 +9,4 @@ repository for images
 ![image](https://github.com/rgreilly/images/assets/1801654/a68b3afd-2374-4db2-9072-ea318622abfc)
 ![Seven_segnment-display](https://github.com/rgreilly/images/assets/1801654/d3310e58-f0a9-485f-86c8-0603a9aadac7)
 ![transformer](https://github.com/rgreilly/images/assets/1801654/f5d27ba2-5f19-4b53-8cdf-17defc3a910b)
+![DCGAN](https://github.com/rgreilly/images/assets/1801654/31d95ea8-3a1f-4632-b42e-718f952411f7)
