@@ -12,3 +12,5 @@ repository for images
 ![DCGAN](https://github.com/rgreilly/images/assets/1801654/31d95ea8-3a1f-4632-b42e-718f952411f7)
 ![image](https://github.com/rgreilly/images/assets/1801654/0dd2a48f-1539-411b-b742-613e49b56cfc)
 ![image](https://github.com/rgreilly/images/assets/1801654/3b81625f-a200-43d2-9fa9-3110900efc65)
+![image](https://github.com/rgreilly/images/assets/1801654/cb4c8652-f5af-499d-bf03-c576d5ddfc11)
+![image](https://github.com/rgreilly/images/assets/1801654/da554a54-2fe1-4373-aaa7-079a814bd130)
