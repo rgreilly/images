@@ -14,4 +14,4 @@ repository for images
 ![image](https://github.com/rgreilly/images/assets/1801654/3b81625f-a200-43d2-9fa9-3110900efc65)
 ![image](https://github.com/rgreilly/images/assets/1801654/cb4c8652-f5af-499d-bf03-c576d5ddfc11)
 ![image](https://github.com/rgreilly/images/assets/1801654/da554a54-2fe1-4373-aaa7-079a814bd130)
-![image](https://gizmodo.uol.com.br/julia-linguagem-programacao)
+![Julia_logo](https://github.com/user-attachments/assets/e66fc7db-1fd3-47ab-a5b1-0de24f30c2d0)
