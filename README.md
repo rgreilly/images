@@ -15,3 +15,4 @@ repository for images
 ![image](https://github.com/rgreilly/images/assets/1801654/cb4c8652-f5af-499d-bf03-c576d5ddfc11)
 ![image](https://github.com/rgreilly/images/assets/1801654/da554a54-2fe1-4373-aaa7-079a814bd130)
 ![Julia_logo](https://github.com/user-attachments/assets/9992d01d-6454-45b9-b4f2-d6cc05ccc8c0)
+![julia_curve](https://github.com/user-attachments/assets/caef019d-82c4-4065-bba7-f5970fa3959e)
