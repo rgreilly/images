@@ -17,3 +17,4 @@ repository for images
 ![Julia_logo](https://github.com/user-attachments/assets/9992d01d-6454-45b9-b4f2-d6cc05ccc8c0)
 ![julia_curve](https://github.com/user-attachments/assets/caef019d-82c4-4065-bba7-f5970fa3959e)
 ![image](https://github.com/user-attachments/assets/5c6ced19-d367-4bcd-889c-f541aeaaaa6c)
+![exploratory-data-analysis-using-python-blog-hero](https://github.com/user-attachments/assets/24c98fd2-2c19-40be-9304-e765d24709f3)
