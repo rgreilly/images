@@ -19,4 +19,5 @@ repository for images
 ![image](https://github.com/user-attachments/assets/5c6ced19-d367-4bcd-889c-f541aeaaaa6c)
 ![exploratory-data-analysis-using-python-blog-hero](https://github.com/user-attachments/assets/24c98fd2-2c19-40be-9304-e765d24709f3)
 ![Screenshot 2024-10-06 at 23 23 40](https://github.com/user-attachments/assets/0b41f313-b635-4b44-aed8-8cc841b437b3)
-![irises_images](https://github.com/user-attachments/assets/de9b563e-5f32-4f75-b46c-4a8530139004)
+![irises_benchmark](https://github.com/user-attachments/assets/51b590a2-b496-475d-b498-11738795c459)
+
