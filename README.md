@@ -30,3 +30,4 @@ repository for images
 ![targetting NN](https://github.com/user-attachments/assets/49d447f9-2592-4849-83eb-1f8ae2c76107)
 ![targetting NN2](https://github.com/user-attachments/assets/c4a871f2-3787-4a79-9c43-f029c30d965b)
 ![targetting NN3](https://github.com/user-attachments/assets/1f24d653-8cae-424c-bc36-bf2f80f12e74)
+![cannon right](https://github.com/user-attachments/assets/891c80cf-cf12-45c9-ae91-1b84f41239aa)
