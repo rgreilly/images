@@ -26,3 +26,4 @@ repository for images
 ![image](https://github.com/user-attachments/assets/76a486fb-bb36-4012-9931-20a86c62a941)
 ![image](https://github.com/user-attachments/assets/c8414cc8-e4f7-4bba-8e60-01cd9523bff1)
 ![small cannon](https://github.com/user-attachments/assets/643369ac-d6ac-4967-a004-79e799389b12)
+![cannon diagram](https://github.com/user-attachments/assets/1005b446-888f-4572-a519-543412cf03d9)
