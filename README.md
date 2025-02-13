@@ -36,3 +36,8 @@ repository for images
 ![climate](https://github.com/user-attachments/assets/359423bb-330a-4d09-99bf-c5b6fb9318ca)
 ![aDBS](https://github.com/user-attachments/assets/ab8390b7-83c0-4a4d-b1ff-fa5fb93423dc)
 ![PD+DBS](https://github.com/user-attachments/assets/884630f8-60dd-4ddb-96f5-44435c094903)
+![image](https://github.com/user-attachments/assets/891f6fd0-9287-4089-ae5d-733d0438049f)
+![image](https://github.com/user-attachments/assets/743f6d09-3566-43f7-b7bf-52dba4d29b09)
+![image](https://github.com/user-attachments/assets/6ce79a88-d858-4eac-bc0e-3e959733e463)
+![image](https://github.com/user-attachments/assets/57f56f16-0431-4197-9aab-6722fa9ceb09)
+![image](https://github.com/user-attachments/assets/c320c4e1-8923-40ac-8b0c-d3e1caf6de01)
